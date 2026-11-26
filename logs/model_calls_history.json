@@ -1,0 +1,346 @@
+[
+  {
+    "tag": "проверка",
+    "model": "mini",
+    "prompt": 10,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.7e-06
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|2_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|4_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|19_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|2_инструментов",
+    "model": "mini",
+    "prompt": 530,
+    "cached": 0,
+    "completion": 2,
+    "cost": 8.07e-05
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|4_инструментов",
+    "model": "mini",
+    "prompt": 1329,
+    "cached": 0,
+    "completion": 2,
+    "cost": 0.00020055
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|19_инструментов",
+    "model": "mini",
+    "prompt": 3810,
+    "cached": 0,
+    "completion": 2,
+    "cost": 0.0005727
+  },
+  {
+    "tag": "triage/issue-09",
+    "model": "mini",
+    "prompt": 768,
+    "cached": 0,
+    "completion": 72,
+    "cost": 0.0001584
+  },
+  {
+    "tag": "triage/issue-09/v2",
+    "model": "mini",
+    "prompt": 834,
+    "cached": 0,
+    "completion": 42,
+    "cost": 0.0001503
+  },
+  {
+    "tag": "triage/issue-01",
+    "model": "mini",
+    "prompt": 619,
+    "cached": 0,
+    "completion": 66,
+    "cost": 0.00013245
+  },
+  {
+    "tag": "triage/issue-02",
+    "model": "mini",
+    "prompt": 687,
+    "cached": 0,
+    "completion": 63,
+    "cost": 0.00014085
+  },
+  {
+    "tag": "triage/issue-03",
+    "model": "mini",
+    "prompt": 682,
+    "cached": 0,
+    "completion": 52,
+    "cost": 0.0001335
+  },
+  {
+    "tag": "triage/issue-04",
+    "model": "mini",
+    "prompt": 726,
+    "cached": 0,
+    "completion": 61,
+    "cost": 0.0001455
+  },
+  {
+    "tag": "triage/issue-05",
+    "model": "mini",
+    "prompt": 800,
+    "cached": 0,
+    "completion": 73,
+    "cost": 0.0001638
+  },
+  {
+    "tag": "triage/issue-06",
+    "model": "mini",
+    "prompt": 820,
+    "cached": 0,
+    "completion": 58,
+    "cost": 0.0001578
+  },
+  {
+    "tag": "triage/issue-01",
+    "model": "mini",
+    "prompt": 622,
+    "cached": 0,
+    "completion": 66,
+    "cost": 0.0001329
+  },
+  {
+    "tag": "triage/issue-02",
+    "model": "mini",
+    "prompt": 690,
+    "cached": 0,
+    "completion": 51,
+    "cost": 0.0001341
+  },
+  {
+    "tag": "triage/issue-03",
+    "model": "mini",
+    "prompt": 685,
+    "cached": 0,
+    "completion": 63,
+    "cost": 0.00014055
+  },
+  {
+    "tag": "triage/issue-04",
+    "model": "mini",
+    "prompt": 729,
+    "cached": 0,
+    "completion": 60,
+    "cost": 0.00014535
+  },
+  {
+    "tag": "triage/issue-05",
+    "model": "mini",
+    "prompt": 803,
+    "cached": 0,
+    "completion": 73,
+    "cost": 0.00016425
+  },
+  {
+    "tag": "triage/issue-06",
+    "model": "mini",
+    "prompt": 823,
+    "cached": 0,
+    "completion": 58,
+    "cost": 0.00015825
+  },
+  {
+    "tag": "triage/issue-07",
+    "model": "mini",
+    "prompt": 894,
+    "cached": 0,
+    "completion": 65,
+    "cost": 0.0001731
+  },
+  {
+    "tag": "triage/issue-08",
+    "model": "mini",
+    "prompt": 907,
+    "cached": 0,
+    "completion": 52,
+    "cost": 0.00016725
+  },
+  {
+    "tag": "triage/issue-10",
+    "model": "mini",
+    "prompt": 862,
+    "cached": 0,
+    "completion": 54,
+    "cost": 0.0001617
+  },
+  {
+    "tag": "triage/issue-02/v2",
+    "model": "mini",
+    "prompt": 759,
+    "cached": 0,
+    "completion": 78,
+    "cost": 0.00016065
+  },
+  {
+    "tag": "triage/issue-10/v2",
+    "model": "mini",
+    "prompt": 931,
+    "cached": 0,
+    "completion": 64,
+    "cost": 0.00017805
+  },
+  {
+    "tag": "triage/issue-10/v3",
+    "model": "mini",
+    "prompt": 1050,
+    "cached": 0,
+    "completion": 59,
+    "cost": 0.0001929
+  },
+  {
+    "tag": "triage/final-v1/issue-01",
+    "model": "mini",
+    "prompt": 810,
+    "cached": 0,
+    "completion": 75,
+    "cost": 0.0001665
+  },
+  {
+    "tag": "triage/final-v1/issue-02",
+    "model": "mini",
+    "prompt": 878,
+    "cached": 0,
+    "completion": 97,
+    "cost": 0.0001899
+  },
+  {
+    "tag": "triage/final-v1/issue-03",
+    "model": "mini",
+    "prompt": 873,
+    "cached": 0,
+    "completion": 64,
+    "cost": 0.00016935
+  },
+  {
+    "tag": "triage/final-v1/issue-04",
+    "model": "mini",
+    "prompt": 917,
+    "cached": 0,
+    "completion": 65,
+    "cost": 0.00017655
+  },
+  {
+    "tag": "triage/final-v1/issue-05",
+    "model": "mini",
+    "prompt": 991,
+    "cached": 0,
+    "completion": 78,
+    "cost": 0.00019545
+  },
+  {
+    "tag": "triage/final-v1/issue-06",
+    "model": "mini",
+    "prompt": 1011,
+    "cached": 0,
+    "completion": 64,
+    "cost": 0.00019005
+  },
+  {
+    "tag": "triage/final-v1/issue-07",
+    "model": "mini",
+    "prompt": 1082,
+    "cached": 0,
+    "completion": 65,
+    "cost": 0.0002013
+  },
+  {
+    "tag": "triage/final-v1/issue-08",
+    "model": "mini",
+    "prompt": 1095,
+    "cached": 0,
+    "completion": 55,
+    "cost": 0.00019725
+  },
+  {
+    "tag": "triage/final-v1/issue-09",
+    "model": "mini",
+    "prompt": 1025,
+    "cached": 0,
+    "completion": 67,
+    "cost": 0.00019395
+  },
+  {
+    "tag": "triage/final-v1/issue-10",
+    "model": "mini",
+    "prompt": 1050,
+    "cached": 1024,
+    "completion": 59,
+    "cost": 0.0001161
+  }
+]

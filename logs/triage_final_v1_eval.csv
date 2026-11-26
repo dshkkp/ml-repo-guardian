@@ -1,0 +1,11 @@
+﻿issue,expected,predicted,duplicate_of,correct
+1,bug,bug,,True
+2,bug,bug,,True
+3,bug,bug,,True
+4,bug,bug,,True
+5,bug,bug,,True
+6,feature,feature,,True
+7,feature,feature,,True
+8,documentation,documentation,,True
+9,duplicate,bug,,False
+10,needs_info,needs_info,,True

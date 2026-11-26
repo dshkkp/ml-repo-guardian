@@ -1,0 +1,62 @@
+{
+  "1": {
+    "kind": "bug",
+    "duplicate_of": null,
+    "reason": "The issue describes a specific malfunction in the calculation of the F1-score in the evaluate_model() function, which is a concrete and actionable defect.",
+    "plan": "Investigate the implementation of the F1-score calculation in metrics.py and correct it to ensure it evaluates the positive class (churn=1) accurately."
+  },
+  "2": {
+    "kind": "bug",
+    "duplicate_of": null,
+    "reason": "The issue describes a specific malfunction in the `predict_churn_probability()` function, which is returning incorrect probabilities for customer churn. The expected behavior and acceptance criteria are clearly outlined, indicating a concrete defect that can be addressed.",
+    "plan": "Investigate the implementation of the `predict_churn_probability()` function to identify the source of the incorrect probability calculations. Ensure that the function adheres to the expected output format and correctness criteria."
+  },
+  "3": {
+    "kind": "bug",
+    "duplicate_of": null,
+    "reason": "The issue describes a specific malfunction where the pipeline fails with an exception when encountering unknown categories in the `contract_type` feature during prediction.",
+    "plan": "Implement handling for unknown categories in the `contract_type` feature to ensure the model can return predictions without exceptions."
+  },
+  "4": {
+    "kind": "bug",
+    "duplicate_of": null,
+    "reason": "The issue describes a specific malfunction where the model saving function fails when trying to save to a non-existent nested directory, which is actionable and reproducible.",
+    "plan": "Implement a check in the save_model() function to create any missing parent directories before saving the model."
+  },
+  "5": {
+    "kind": "bug",
+    "duplicate_of": null,
+    "reason": "Параметр `random_state` не влияет на генерацию данных в функции `make_dataset()`, что противоречит ожидаемому поведению.",
+    "plan": "Проверить реализацию функции `make_dataset()` и убедиться, что параметр `random_state` корректно используется для генерации случайных данных."
+  },
+  "6": {
+    "kind": "feature",
+    "duplicate_of": null,
+    "reason": "The issue requests the addition of a new metric, Balanced Accuracy, to the existing evaluate_model() function, which is a request for new functionality.",
+    "plan": "Implement the calculation of balanced_accuracy in the evaluate_model() function without altering existing metrics or their usage."
+  },
+  "7": {
+    "kind": "feature",
+    "duplicate_of": null,
+    "reason": "The issue requests the addition of a feature to allow users to set a classification threshold for predictions, which is a new functionality.",
+    "plan": "Implement a parameter for the classification threshold in the prediction function, ensuring backward compatibility with the default threshold of 0.5."
+  },
+  "8": {
+    "kind": "documentation",
+    "duplicate_of": null,
+    "reason": "The issue requests to improve the documentation in the README.md file to help new users with installation and usage instructions.",
+    "plan": "Add detailed installation instructions, usage scenarios, and examples for training the model and running tests."
+  },
+  "9": {
+    "kind": "bug",
+    "duplicate_of": null,
+    "reason": "The issue describes a specific malfunction where the application crashes when encountering a new contract type during prediction, which is a concrete defect.",
+    "plan": "Investigate the handling of unknown contract types in the prediction pipeline and implement a solution to allow the model to process these values without crashing."
+  },
+  "10": {
+    "kind": "needs_info",
+    "duplicate_of": null,
+    "reason": "The issue describes vague and subjective observations about incorrect predictions without specific examples or details to reproduce the problem.",
+    "plan": "Request more information about the specific cases where the model makes incorrect predictions, including input data and expected vs actual outputs."
+  }
+}

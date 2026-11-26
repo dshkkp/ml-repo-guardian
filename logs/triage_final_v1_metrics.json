@@ -1,0 +1,16 @@
+{
+  "model": "openai/gpt-4o-mini",
+  "issues": 10,
+  "correct": 9,
+  "accuracy": 0.9,
+  "incorrect_issues": [
+    9
+  ],
+  "model_calls": 10,
+  "prompt_tokens": 9732,
+  "completion_tokens": 689,
+  "cost_usd": 0.0017964,
+  "cost_per_issue_usd": 0.00017964,
+  "prompt_sha256": "dce3c4d6f0fe466a7403dd3f5c2e3d7b4eb1757969890ed372323b1a66b032e5",
+  "evaluation_set": "development"
+}

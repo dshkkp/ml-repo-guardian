@@ -1,0 +1,50 @@
+[
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|2_инструментов",
+    "model": "mini",
+    "prompt": 530,
+    "cached": 0,
+    "completion": 2,
+    "cost": 8.07e-05
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|4_инструментов",
+    "model": "mini",
+    "prompt": 1329,
+    "cached": 0,
+    "completion": 2,
+    "cost": 0.00020055
+  },
+  {
+    "tag": "налог|без_инструментов",
+    "model": "mini",
+    "prompt": 9,
+    "cached": 0,
+    "completion": 2,
+    "cost": 2.55e-06
+  },
+  {
+    "tag": "налог|19_инструментов",
+    "model": "mini",
+    "prompt": 3810,
+    "cached": 0,
+    "completion": 2,
+    "cost": 0.0005727
+  }
+]

@@ -1,0 +1,16 @@
+
+name: ml-repo-guardian
+
+services:
+  github-mcp:
+    image: ghcr.io/github/github-mcp-server:v1.13.0
+    command: ["http", "--port", "8082"]
+
+    environment:
+      GITHUB_READ_ONLY: "1"
+      GITHUB_TOOLSETS: "repos,issues"
+
+    ports:
+      - "127.0.0.1:8082:8082"
+
+    restart: "no"
